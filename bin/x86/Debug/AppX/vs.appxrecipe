@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-12-29T09:09:08.248</Modified>
+      <Modified>2021-01-09T16:13:38.708</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Demoo.exe">
       <PackagePath>entrypoint\Demoo.exe</PackagePath>
-      <Modified>2020-12-29T09:09:05.036</Modified>
+      <Modified>2021-01-09T16:13:34.500</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\.nuget\packages\caliburn.micro\3.2.0\lib\uap10.0\Caliburn.Micro.Platform.Core.dll">
       <PackagePath>Caliburn.Micro.Platform.Core.dll</PackagePath>
@@ -238,107 +238,107 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.858</Modified>
+      <Modified>2021-01-09T15:40:14.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Controls\CameraControl.xbf">
       <PackagePath>Controls\CameraControl.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.858</Modified>
+      <Modified>2021-01-09T15:40:14.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Styles\CommandBar.xbf">
       <PackagePath>Styles\CommandBar.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.855</Modified>
+      <Modified>2021-01-09T15:40:14.319</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Styles\Image.xbf">
       <PackagePath>Styles\Image.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.856</Modified>
+      <Modified>2021-01-09T15:40:14.319</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Styles\Page.xbf">
       <PackagePath>Styles\Page.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.856</Modified>
+      <Modified>2021-01-09T15:40:14.319</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Styles\_Colors.xbf">
       <PackagePath>Styles\_Colors.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.857</Modified>
+      <Modified>2021-01-09T15:40:14.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Styles\_FontSizes.xbf">
       <PackagePath>Styles\_FontSizes.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.857</Modified>
+      <Modified>2021-01-09T15:40:14.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Styles\_Thickness.xbf">
       <PackagePath>Styles\_Thickness.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.857</Modified>
+      <Modified>2021-01-09T15:40:14.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Styles\TextBlock.xbf">
       <PackagePath>Styles\TextBlock.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.857</Modified>
+      <Modified>2021-01-09T15:40:14.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Views\BlankPage.xbf">
       <PackagePath>Views\BlankPage.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.858</Modified>
+      <Modified>2021-01-09T15:40:14.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Views\CameraPage.xbf">
       <PackagePath>Views\CameraPage.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.859</Modified>
+      <Modified>2021-01-09T15:40:14.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Views\ContentGridDetailPage.xbf">
       <PackagePath>Views\ContentGridDetailPage.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.712</Modified>
+      <Modified>2021-01-09T15:40:14.248</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Views\ContentGridPage.xbf">
       <PackagePath>Views\ContentGridPage.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.859</Modified>
+      <Modified>2021-01-09T15:40:14.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Views\ImageGalleryDetailPage.xbf">
       <PackagePath>Views\ImageGalleryDetailPage.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.860</Modified>
+      <Modified>2021-01-09T15:40:14.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Views\ImageGalleryPage.xbf">
       <PackagePath>Views\ImageGalleryPage.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.860</Modified>
+      <Modified>2021-01-09T15:40:14.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Views\InkSmartCanvasPage.xbf">
       <PackagePath>Views\InkSmartCanvasPage.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.780</Modified>
+      <Modified>2021-01-09T15:40:14.284</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Views\MainPage.xbf">
       <PackagePath>Views\MainPage.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.861</Modified>
+      <Modified>2021-01-09T15:40:14.321</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Views\MasterDetailDetail\DetailsView.xbf">
       <PackagePath>Views\MasterDetailDetail\DetailsView.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.793</Modified>
+      <Modified>2021-01-09T15:40:14.289</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Views\MasterDetailDetail\MasterView.xbf">
       <PackagePath>Views\MasterDetailDetail\MasterView.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.861</Modified>
+      <Modified>2021-01-09T15:40:14.321</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Views\MasterDetailPage.xbf">
       <PackagePath>Views\MasterDetailPage.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.861</Modified>
+      <Modified>2021-01-09T15:40:14.322</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Views\MediaPlayerPage.xbf">
       <PackagePath>Views\MediaPlayerPage.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.862</Modified>
+      <Modified>2021-01-09T15:40:14.322</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Views\SchemeActivationSamplePage.xbf">
       <PackagePath>Views\SchemeActivationSamplePage.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.862</Modified>
+      <Modified>2021-01-09T15:40:14.322</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Views\SettingsPage.xbf">
       <PackagePath>Views\SettingsPage.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.863</Modified>
+      <Modified>2021-01-09T15:40:14.322</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Views\ShellPage.xbf">
       <PackagePath>Views\ShellPage.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.863</Modified>
+      <Modified>2021-01-09T15:40:14.322</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Views\WebViewPage.xbf">
       <PackagePath>Views\WebViewPage.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.853</Modified>
+      <Modified>2021-01-09T15:40:14.318</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Views\WhatsNewDialog.xbf">
       <PackagePath>Views\WhatsNewDialog.xbf</PackagePath>
-      <Modified>2020-12-27T18:13:56.864</Modified>
+      <Modified>2021-01-09T15:40:14.322</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -358,7 +358,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\leays\source\repos\Demoo\bin\x86\Debug\Core\Demoo.exe">
       <PackagePath>Demoo.exe</PackagePath>
-      <Modified>2020-12-29T09:09:08.239</Modified>
+      <Modified>2021-01-09T16:13:38.700</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

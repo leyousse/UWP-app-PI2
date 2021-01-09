@@ -55,7 +55,7 @@ namespace Demoo.Views
             {
                 // Construct the HttpClient and Uri. This endpoint is for test purposes only.
                 HttpClient httpClient = new HttpClient();
-                Uri uri = new Uri("https://localhost:8080");
+                Uri uri = new Uri("http://127.0.0.1:5000/post");
 
                 // Construct the JSON to post.
                 HttpStringContent content = new HttpStringContent(jsonSerializedObj);
@@ -179,13 +179,14 @@ namespace Demoo.Views
                     NotifyUser(sb.ToString(), NotifyType.StatusMessage);
 
                     //Création de l'objet à séréaliser
+                    string texte = sb.ToString();
                     Question question = new Question()
                     {
                         id = "1234",
                         texte = sb.ToString(),
                     };
-
                     //Séréalisation de l'objet
+                    string notjsonyet = "'id':'123','texte':'"+texte+"'";
                     string jsonSerializedObj = JsonConvert.SerializeObject(question);
 
                     //Choix du local folder comme emplacement
@@ -200,7 +201,7 @@ namespace Demoo.Views
                     //Ecriture dans le fichier json
                     await Windows.Storage.FileIO.WriteTextAsync(sampleFile, jsonSerializedObj);
                     //Envoi de la requête
-                    await TryPostJsonAsync(jsonSerializedObj);
+                    await TryPostJsonAsync(notjsonyet);
                 }
             }
             catch (Exception ex)
